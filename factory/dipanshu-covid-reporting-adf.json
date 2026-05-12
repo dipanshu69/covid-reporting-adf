@@ -1,0 +1,15 @@
+{
+	"name": "dipanshu-covid-reporting-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29cecc21-3a5d-49e4-88ec-f93e841afd29",
+		"tenantId": "39d22bea-c31b-4ad0-b703-23b67e857c96"
+	}
+}
